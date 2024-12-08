@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+de:/7segment5bit
+vglbl
+Z0 !s110 1729570760
+!i10b 1
+!s100 `9Q[BK6m;]_NK=c;YQOi81
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IGZ6GcB_b5o7ZoCS=V2SdB2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dE:/7segment5bit
+w1107956757
+8D:/Xilinx/verilog/src/glbl.v
+FD:/Xilinx/verilog/src/glbl.v
+!i122 79
+L0 5 54
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1729570760.000000
+!s107 D:/Xilinx/verilog/src/glbl.v|
+!s90 -reportprogress|300|D:/Xilinx/verilog/src/glbl.v|
+!i113 1
+Z6 tCvgOpt 0
+vled5
+R0
+!i10b 1
+!s100 0AU_^:6_^ZK?`oDQ9I5^Y1
+R1
+IOAL3mC:V8A_Jl;nMV6YO>1
+R2
+R3
+w1729545960
+8led5.v
+Fled5.v
+!i122 77
+L0 21 70
+R4
+r1
+!s85 0
+31
+R5
+!s107 led5.v|
+!s90 -reportprogress|300|led5.v|
+!i113 1
+R6
+vled5_tb_v
+R0
+!i10b 1
+!s100 Z=baOU^5oS4?f_;nN]B]03
+R1
+ILDza:2RcfnZ6cJQ=k;4T12
+R2
+R3
+w1729542062
+8led5_tb.v
+Fled5_tb.v
+!i122 78
+L0 25 29
+R4
+r1
+!s85 0
+31
+R5
+!s107 led5_tb.v|
+!s90 -reportprogress|300|led5_tb.v|
+!i113 1
+R6

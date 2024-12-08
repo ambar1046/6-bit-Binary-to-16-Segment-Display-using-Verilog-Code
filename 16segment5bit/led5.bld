@@ -1,0 +1,20 @@
+Release 7.1i ngdbuild H.38
+Copyright (c) 1995-2005 Xilinx, Inc.  All rights reserved.
+
+Command Line: ngdbuild -intstyle ise -dd e:\7segment5bit/_ngo -i -p
+xc3s100e-vq100-4 led5.ngc led5.ngd 
+
+Reading NGO file 'e:/7segment5bit/led5.ngc' ...
+
+Checking timing specifications ...
+Checking expanded design ...
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 110428 kilobytes
+
+Writing NGD file "led5.ngd" ...
+
+Writing NGDBUILD log file "led5.bld"...

@@ -1,0 +1,100 @@
+# Reading pref.tcl
+# do led5_tb_v.fdo
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 09:49:20 on Oct 22,2024
+# vlog -reportprogress 300 led5.v 
+# -- Compiling module led5
+# 
+# Top level modules:
+# 	led5
+# End time: 09:49:20 on Oct 22,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 09:49:20 on Oct 22,2024
+# vlog -reportprogress 300 led5_tb.v 
+# -- Compiling module led5_tb_v
+# 
+# Top level modules:
+# 	led5_tb_v
+# End time: 09:49:20 on Oct 22,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 09:49:20 on Oct 22,2024
+# vlog -reportprogress 300 D:/Xilinx/verilog/src/glbl.v 
+# -- Compiling module glbl
+# 
+# Top level modules:
+# 	glbl
+# End time: 09:49:20 on Oct 22,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -t 1ps -L xilinxcorelib_ver -L unisims_ver -lib work led5_tb_v glbl 
+# Start time: 09:49:20 on Oct 22,2024
+# Loading work.led5_tb_v
+# ** Error (suppressible): (vsim-19) Failed to access library 'xilinxcorelib_ver' at "xilinxcorelib_ver".
+# No such file or directory. (errno = ENOENT)
+# ** Error (suppressible): (vsim-19) Failed to access library 'unisims_ver' at "unisims_ver".
+# No such file or directory. (errno = ENOENT)
+# Loading work.led5
+# Loading work.glbl
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# Letter: A, Segments: 0000000000000000
+# Letter: B, Segments: 0000001111001111
+# Letter: C, Segments: 0100101000111111
+# Letter: D, Segments: 0000000011110011
+# Letter: E, Segments: 0100100000111111
+# Letter: F, Segments: 0000001111110011
+# Letter: G, Segments: 0000000111100011
+# Letter: H, Segments: 0000001011111011
+# Letter: I, Segments: 0000001111001100
+# Letter: J, Segments: 0100100000110011
+# Letter: K, Segments: 0100100001100011
+# Letter: L, Segments: 0011000111000000
+# Letter: M, Segments: 0000000011110000
+# Letter: N, Segments: 0101010011001100
+# Letter: O, Segments: 0010010011001100
+# Letter: P, Segments: 0000000011111111
+# Letter: Q, Segments: 0000001111000111
+# Letter: R, Segments: 0010000011111111
+# Letter: S, Segments: 0010001111000111
+# Letter: T, Segments: 0000001110111011
+# Letter: U, Segments: 0100100000000011
+# Letter: V, Segments: 0000000011111100
+# Letter: W, Segments: 1001000011000000
+# Letter: X, Segments: 1010100011001100
+# Letter: Y, Segments: 1011010000000000
+# Letter: Z, Segments: 0100001110000100
+# Letter: [, Segments: 1001000000110011
+# Letter: \, Segments: 0000001101111111
+# Letter: ], Segments: 0000001111111000
+# Letter: ^, Segments: 0000001101110000
+# Letter: _, Segments: 0000001101111100
+# Letter: `, Segments: 0000001111110111
+# Letter: a, Segments: 0100101100000010
+# Letter: b, Segments: 0000001110111111
+# Letter: c, Segments: 0000001111001000
+# Letter: d, Segments: 0100000100110001
+# Letter: e, Segments: 0000000000111011
+# Letter: f, Segments: 0010001111000000
+# Letter: g, Segments: 0100100000100001
+# Letter: h, Segments: 0100001101001000
+# Letter: i, Segments: 0000000011001111
+# Letter: j, Segments: 0000001101111000
+# Letter: k, Segments: 0001000111000011
+# Letter: l, Segments: 0001000110001111
+# Letter: m, Segments: 0000001101000000
+# Letter: n, Segments: 0010001000110000
+# Letter: o, Segments: 0100101100100000
+# Letter: p, Segments: 0000000001111000
+# Letter: q, Segments: 1000000001000000
+# Letter: r, Segments: 1010000001001000
+# Letter: s, Segments: 1011010000000000
+# Letter: t, Segments: 0000101000111100
+# ** Note: $finish    : led5_tb.v(50)
+#    Time: 530 ns  Iteration: 0  Instance: /led5_tb_v
+# 1
+# Break in Module led5_tb_v at led5_tb.v line 50
+# End time: 10:04:31 on Oct 22,2024, Elapsed time: 0:15:11
+# Errors: 2, Warnings: 0

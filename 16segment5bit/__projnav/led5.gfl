@@ -1,0 +1,202 @@
+# XST (Creating Lso File) : 
+led5.lso
+# Check Syntax
+led5.stx
+# XST (Creating Lso File) : 
+led5.lso
+# Check Syntax
+led5.stx
+# XST (Creating Lso File) : 
+led5.lso
+# Check Syntax
+led5.stx
+ProjNav -> New -> Test Fixture
+__projnav/createTF.err
+# ModelSim : Simulate Behavioral Verilog Model
+led5_tb_v.fdo
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+ProjNav -> New -> Test Fixture
+__projnav/createTF.err
+# ModelSim : Simulate Behavioral Verilog Model
+led5_tb_v.fdo
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# XST (Creating Lso File) : 
+led5.lso
+# Check Syntax
+led5.stx
+# XST (Creating Lso File) : 
+led5.lso
+# Check Syntax
+led5.stx
+ProjNav -> New -> Test Fixture
+__projnav/createTF.err
+# ModelSim : Simulate Behavioral Verilog Model
+led5_tb_v.fdo
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# ModelSim : Simulate Behavioral Verilog Model
+led5_tb_v.fdo
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# ModelSim : Simulate Behavioral Verilog Model
+led5_tb_v.fdo
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# ModelSim : Simulate Behavioral Verilog Model
+led5_tb_v.fdo
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# ModelSim : Simulate Behavioral Verilog Model
+led5_tb_v.fdo
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# XST (Creating Lso File) : 
+led5.lso
+# Check Syntax
+led5.stx
+# XST (Creating Lso File) : 
+led5.lso
+# Check Syntax
+led5.stx
+# ModelSim : Simulate Behavioral Verilog Model
+led5_tb_v.fdo
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# XST (Creating Lso File) : 
+led5.lso
+# Check Syntax
+led5.stx
+# XST (Creating Lso File) : 
+led5.lso
+# Check Syntax
+led5.stx
+# ModelSim : Simulate Behavioral Verilog Model
+led5_tb_v.fdo
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# XST (Creating Lso File) : 
+led5.lso
+# xst flow : RunXST
+led5_summary.html
+# xst flow : RunXST
+led5.syr
+led5.prj
+led5.sprj
+led5.ana
+led5.stx
+led5.cmd_log
+led5.ngc
+led5.ngr
+# Implmentation : Translate
+__projnav/ednTOngd_tcl.rsp
+"e:\7segment5bit/_ngo"
+led5.ngd
+led5_ngdbuild.nav
+led5.bld
+.untf
+led5.cmd_log
+# Implementation : Map
+led5_summary.html
+# Implementation : Map
+led5_map.ncd
+led5.ngm
+led5.pcf
+led5.nc1
+led5.mrp
+led5_map.mrp
+led5.mdf
+led5.cmd_log
+MAP_NO_GUIDE_FILE_CPF "led5"
+led5_map.ngm
+# Implementation : Generate Post-Map Simulation Model
+led5_map.v
+led5_map.nlf
+led5.versim_map
+led5.map_nlf
+led5.cmd_log
+led5_map.v
+led5_map.sdf
+led5_map.sdf
+# ModelSim : Simulate Post-Map VHDL Model
+led5_tb_v.mdo
+# ModelSim : Simulate Post-Map Verilog Model
+vsim.wlf
+# ModelSim : Simulate Behavioral Verilog Model
+led5_tb_v.fdo
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# XST (Creating Lso File) : 
+led5.lso
+# Check Syntax
+led5.stx
+led5.ngc
+# ModelSim : Simulate Behavioral Verilog Model
+led5_tb_v.fdo
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# ModelSim : Simulate Behavioral Verilog Model
+led5_tb_v.fdo
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# ModelSim : Simulate Behavioral Verilog Model
+led5_tb_v.fdo
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# ModelSim : Simulate Behavioral Verilog Model
+led5_tb_v.fdo
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# ModelSim : Simulate Behavioral Verilog Model
+led5_tb_v.fdo
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# ModelSim : Simulate Behavioral Verilog Model
+led5_tb_v.fdo
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# XST (Creating Lso File) : 
+led5.lso
+# Check Syntax
+led5.stx
+led5.ngc
+# XST (Creating Lso File) : 
+led5.lso
+# Check Syntax
+led5.stx
+led5.ngc
+# ModelSim : Simulate Behavioral Verilog Model
+led5_tb_v.fdo
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# ModelSim : Simulate Behavioral Verilog Model
+led5_tb_v.fdo
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# ModelSim : Simulate Behavioral Verilog Model
+led5_tb_v.fdo
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# ModelSim : Simulate Behavioral Verilog Model
+led5_tb_v.fdo
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# xst flow : RunXST
+led5_summary.html
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# xst flow : RunXST
+led5_summary.html
+# ModelSim : Simulate Behavioral Verilog Model
+vsim.wlf
+# xst flow : RunXST
+led5_summary.html

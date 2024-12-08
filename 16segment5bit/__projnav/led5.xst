@@ -1,0 +1,4 @@
+set -tmpdir .
+elaborate
+-ifn led5.prj
+-ifmt mixed
